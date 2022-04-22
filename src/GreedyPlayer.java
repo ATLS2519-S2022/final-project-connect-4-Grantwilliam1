@@ -1,5 +1,5 @@
 /**
-	 * A Connect-4 player that makes random valid moves.
+	 * A Connect-4 player that makes moves that would give the highest possible score.
 	 * 
 	 * @author Daniel Szafir
 	 *
